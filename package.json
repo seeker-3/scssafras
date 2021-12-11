@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/seeker-3/scssafras"
+  }
 }
